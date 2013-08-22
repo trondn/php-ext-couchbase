@@ -15,9 +15,6 @@
   | permissions and limitations under the License.                       |
   +----------------------------------------------------------------------+
 */
-#include <assert.h>
-
-
 #include "internal.h"
 
 /* @todo This is a copy of the logic used by the cluster management
