@@ -65,7 +65,7 @@
 
 #include "Zend/zend_API.h"
 #include <zend_exceptions.h>
-
+#include <assert.h>
 #include <stdarg.h>
 
 #ifdef ZTS
